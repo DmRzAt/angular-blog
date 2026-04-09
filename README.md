@@ -101,5 +101,3 @@ Rejestracja użytkownika
 - System ocen postów (rating)
 
 - Responsywny interfejs (Bootstrap)
-### Autorska funkcjonalność
-Zaimplementowano autorską funkcjonalność analizy aktywności posta, prezentującą liczbę polubień, ocen oraz komentarzy, co pozwala użytkownikom ocenić popularność i zaangażowanie społeczności wokół danego posta.
